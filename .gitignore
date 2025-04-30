@@ -1,0 +1,9 @@
+# Ignore virtual environments
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# (etc—any other ignores from before)
